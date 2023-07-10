@@ -1,0 +1,305 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\BUS.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\BUS.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DAO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DTO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DAO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DTO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\BUS.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\BUS.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DAO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DTO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DAO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DTO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DAO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DTO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DAO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DTO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap_trinh_quan_ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DAO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DTO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DAO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\bin\Debug\DTO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL_BTTH03\BUS\obj\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\BUS.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\DAO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\DTO.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\DAO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\bin\Debug\DTO.pdb
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\obj\Debug\BUS.dll
+D:\An Giang University\2021-2022\HK2-2021-2022\Lap Trinh Quan Ly\Practice\LTQL - Practice 04\BUS\obj\Debug\BUS.pdb
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+D:\An Giang University\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+E:\AGU\Deadline\Lap Trinh Quan Ly\LTQL-Only me\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+E:\AGU\Project\Lap Trinh Quan Ly\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc1\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\EnvDTE.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\stdole.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AGU\Project\12. Project 2 (DOTNET)\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\EnvDTE.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\stdole.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+E:\TaiLieuHocAGU\DO_AN2\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\BUS.pdb
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\EnvDTE.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\stdole.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.pdb
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DTO.pdb
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.dll
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\obj\Debug\BUS.pdb
+C:\Users\luumi\Desktop\QLTruongHoc\QuanLyTruongHoc\BUS\bin\Debug\DAO.dll.config
